@@ -1,0 +1,5 @@
+[submodule "submodule2"]
+	path = submodule2
+	url = https://github.com/asithagihan/submodule2.git
+	branch = master
+	ignore = dirty
